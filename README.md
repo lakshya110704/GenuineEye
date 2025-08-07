@@ -1,10 +1,4 @@
 # GenuineEye: RealFake Classifier
----
-## Group Members
-- Atharva Jaiswal (229309131)
-- Khushi Bansal (229309142)
-- Lakshya Mehta (229309175)
-- Yashashvi Sarran (229309119)
 
 ## Project Overview
 GenuineEye is a machine learning project aimed at developing a classifier to distinguish between real and fake images. The project involves several steps including data gathering, preprocessing, model development, hypertuning, and performance evaluation.
@@ -17,12 +11,6 @@ GenuineEye is a machine learning project aimed at developing a classifier to dis
 
 ![Screenshot 2024-09-12 114257](https://github.com/user-attachments/assets/7f0065f1-eacf-4886-a7a9-d0be2e660da8)
 
-## Roles and Responsibilities
-- **Yashashvi Sarran (229309119)**: Gathering Data
-- **Khushi Bansal (229309142)**: Preprocessing Data
-- **Atharva Jaiswal (229309131)**: Model Development & Hypertuning
-- **Lakshya Mehta (229309175)**: Performance Evaluation
-
 ## Data Collection
 ### Choosing from Potential Datasets
 - **High Resolution Images**:
@@ -33,7 +21,7 @@ GenuineEye is a machine learning project aimed at developing a classifier to dis
   - Disadvantages: Low resolution
 
 ### Final Choice
-We selected a dataset with a substantial volume of data (120,000 images) to optimize the performance of our neural networks. The large dataset helps in learning diverse patterns, mitigating overfitting, and improving the model's robustness.
+Selected a dataset with a substantial volume of data (120,000 images) to optimize the performance of our neural networks. The large dataset helps in learning diverse patterns, mitigating overfitting, and improving the model's robustness.
 
 ## Setting Up the Environment
 ### Loading Libraries
