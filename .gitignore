@@ -1,0 +1,50 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints (already present, but more general)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Model files
+*.h5
+*.pth
+*.pt
+models/
+
+# Log files
+*.log
+logs/
+
+# Data files
+*.csv
+*.tsv
+*.db
+*.sqlite3
+data/
+images/
+test/
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+# Presentation files
+Presentation/
